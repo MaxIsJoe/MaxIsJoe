@@ -1,6 +1,6 @@
 ### Hi, I'm Maxine (and I'm also Joseph)
 
-I love video games, open source software and dissecting video games' lore.
+I love video games, open source software and anime.
 
 Working currently on TWCRemake and UnityStation.
 
