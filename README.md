@@ -1,6 +1,8 @@
-### Hi, I'm Max.
+### Hi, I'm Maxine (and I'm also Joseph)
 
-I make (and remake) games and still learning how to draw and animate.
+I love video games, open source software and dissecting video games' lore.
+
+Working currently on TWCRemake and UnityStation.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MaxIsJoe)
 
