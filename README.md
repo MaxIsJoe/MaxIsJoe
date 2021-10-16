@@ -5,6 +5,7 @@ I love video games, open source software and dissecting the lore of video games 
 Working currently on TWCRemake and UnityStation.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MaxIsJoe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxIsJoe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MaxIsJoe/MaxIsJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
