@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Max.
+
+I make (and remake) games and still learning how to draw and animate.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=MaxIsJoe)
 
 <!--
 **MaxIsJoe/MaxIsJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
