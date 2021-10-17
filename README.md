@@ -1,4 +1,4 @@
-### Hi, I'm Maxine (and I'm also Joseph)
+### Hi, I'm Max
 
 I love video games, open source software, roleplaying and dissecting the lore of video games and anime.
 
