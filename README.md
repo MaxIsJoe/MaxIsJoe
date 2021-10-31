@@ -1,6 +1,6 @@
 ### Hi, I'm Max
 
-I love video games, open source software, roleplaying and dissecting the lore of video games and anime.
+I love video games, writing, open source software, roleplaying and dissecting the lore of video games and anime.
 
 Working currently on TWCRemake and UnityStation.
 
