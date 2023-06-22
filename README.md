@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **Blender, LMMS and Rust**
 
-- 📫 Reach to me on discord: **/dev/Max#6049**
+- 📫 Reach to me on discord: **@MaxIsJoe**
 
 - 🪪 My card: https://maxisjoe.carrd.co/#work
 
