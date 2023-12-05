@@ -9,8 +9,6 @@
 
 - 📫 Reach to me on discord: **@MaxIsJoe**
 
-- 🪪 My card: https://maxisjoe.carrd.co/#work
-
 - 🏠My website/blog: https://www.maxisjoe.xyz
 
 
