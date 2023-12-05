@@ -5,11 +5,13 @@
 
 - 🔭 I’m currently working on [Unitystation](https://github.com/unitystation/unitystation)
 
-- 🌱 I’m learning **Blender, LMMS and Rust**
+- 🌱 I’m currently learning **Dutch, Blender, and Rust**
 
 - 📫 Reach to me on discord: **@MaxIsJoe**
 
 - 🪪 My card: https://maxisjoe.carrd.co/#work
+
+- 🏠My website/blog: https://www.maxisjoe.xyz
 
 
 <h3 align="left">Languages and Tools:</h3>
