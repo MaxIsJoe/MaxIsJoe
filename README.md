@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Unitystation](https://github.com/unitystation/unitystation)
 
-- 🌱 I’m currently learning **Dutch, Blender, and Rust**
+- 🌱 I’m learning **Dutch, Blender, and Rust**
 
 - 📫 Reach to me on discord: **@MaxIsJoe**
 
